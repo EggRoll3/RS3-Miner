@@ -2,9 +2,9 @@
 A semi automated JavaScript RuneScape3 Miner.
 
 # Required Packages
+**You will need node.js**
 
 ```
- **You will need node.js**
 
  npm install robotjs
 
